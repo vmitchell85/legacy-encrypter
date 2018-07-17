@@ -1,5 +1,5 @@
 {
-    "name": "laravel/legacy-encrypter",
+    "name": "vmitchell85/legacy-encrypter",
     "description": "The legacy version of the Laravel mcrypt encrypter.",
     "license": "MIT",
     "homepage": "http://laravel.com",
